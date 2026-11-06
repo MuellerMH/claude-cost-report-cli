@@ -1,0 +1,7 @@
+{"timestamp": "2026-11-01T08:00:00Z", "model": "claude-sonnet-4-5", "input_tokens": 1000, "output_tokens": 200, "cost_usd": 0.0055}
+dieses hier ist kein JSON
+{"timestamp": "2026-11-01T09:00:00Z", "model": "claude-sonnet-4-5", "input_tokens": 500}
+{"timestamp": "not-a-date", "model": "claude-sonnet-4-5", "input_tokens": 100, "output_tokens": 50, "cost_usd": 0.001}
+{"timestamp": "2026-11-01T10:00:00Z", "model": "claude-sonnet-4-5", "input_tokens": -10, "output_tokens": 50, "cost_usd": 0.001}
+
+{"timestamp": "2026-11-02T08:00:00Z", "model": "claude-opus-4-1", "input_tokens": 2000, "output_tokens": 800, "cost_usd": 0.075}
